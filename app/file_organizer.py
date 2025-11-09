@@ -127,7 +127,7 @@ def mostrar_info(dict_archivos_count: dict):
 
 if __name__ == "__main__":
     print("========================================")
-    print("      FILE-ORGANIZER by DannyDev      ")
+    print("      FILE-ORGANIZER by DannxDev      ")
     print("========================================")
     # Verificando si existe la carpeta clave para escanear
     if os.path.isdir(ruta_escanear):
